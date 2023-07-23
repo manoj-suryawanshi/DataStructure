@@ -1,0 +1,5 @@
+git init
+git staus
+git add .
+git commit -m "initial commit"
+git remote add origin <link for github project>
