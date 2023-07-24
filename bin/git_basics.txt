@@ -4,3 +4,10 @@ git add .
 git commit -m "initial commit"
 git remote add origin <link for github project>
 git push origin master
+
+git log -3
+
+to remove origin and add new one
+git remote -v  (to see the current remote origin link)
+git remote add origin1 <link for github project>
+git remote set-url origin <link for github project>
